@@ -19,7 +19,7 @@ const Footer = ()=>{
     </p>
     <div className="flex flex-col lg:flex-row gap-4">
         <div className="border-2 rounded-r-full rounded-l-full border-[#F8FAFC] text-[#F8FAFC] py-3 px-4 w-[240px]">
-            Type Your Email Address
+            Type Your Email Address .
         </div>
         <button className="px-6 font-bold py-2 bg-white rounded-r-full text-black rounded-l-full" >Submit</button>
     </div>
